@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jirachot Seangpitak</h1>
-<h3 align="center">Front-end developer from Thailand</h3>
-<h3 align="center">I'm inturn programmer.</h3>
+<h3 align="left">Front-end developer from Thailand</h3>
+<h3 align="left">I'm inturn programmer.</h3>
 
- 🧠  I'm learning Coding
+ 🧠  I'm learning Coding <br>
  🌍  I'm based in Thailand <br>
  ✉️  You can contact me at ttkk0062@gmail.com
 
