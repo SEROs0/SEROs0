@@ -3,6 +3,8 @@
 <h3 align="center">I'm inturn programmer.</h3>
 
 <h4 align="left">- I'm learning Coding</h4>
+* 🌍  I'm based in Thailand
+* ✉️  You can contact me at [ttkk0062@gmail.com](mailto:ttkk0062@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
