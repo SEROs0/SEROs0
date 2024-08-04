@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jirachot Seangpitak</h1>
+<h3 align="center">Front-end developer from Thailand</h3>
 <h3 align="center">I'm inturn programmer.</h3>
 
-<h3 align="center">Front-end developer from Thailand</h3>
-
-<h4 align="center">I'm learning Coding</h4>
+<h4 align="left">I'm learning Coding</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
