@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jirachot Seangpitak</h1>
-<h3 align="left">Front-end developer from Thailand</h3>
+<h3 align="left">Full stack developer from Thailand</h3>
 <h3 align="left">I'm inturn programmer.</h3>
 
  🧠  I'm learning Coding <br>
