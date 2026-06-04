@@ -3,12 +3,10 @@
 <h3 align="left">I'm inturn programmer.</h3>
 
  🧠  I'm learning Coding <br>
- 🌍  I'm based in Thailand <br>
- ✉️  You can contact me at ttkk0062@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/phxmrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phxmrm" height="30" width="40" /></a>
+  ✉️  You can contact me at ttkk0062@gmail.com
 </p>
 
 ### Skills
