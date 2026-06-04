@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  ✉️  You can contact me at ttkk0062@gmail.com
+  ✉️ ttkk0062@gmail.com
 </p>
 
 ### Skills
