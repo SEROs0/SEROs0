@@ -9,7 +9,7 @@
   ✉️ ttkk0062@gmail.com
 </p>
 
-<a align="left" href="https://web-resume-qksnhgjj7-resume-projects.vercel.app">Web Resume </a>
+<a align="left" href="https://web-resume-46y6hzy45-resume-projects.vercel.app">Web Resume </a>
 
 ### Skills
 
